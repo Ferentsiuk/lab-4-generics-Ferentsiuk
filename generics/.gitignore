@@ -1,0 +1,67 @@
+# Visual Studio / .NET Core
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+out/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated files
+*.g.i.cs
+*.g.cs
+*.generated.cs
+
+# EF Migrations
+Migrations/
+
+# Test result files
+TestResults/
+*.trx
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Sonar
+.sonar/
+
+# Temporary files
+*.tmp
+*.cache
+
+# Dependency directories
+node_modules/
